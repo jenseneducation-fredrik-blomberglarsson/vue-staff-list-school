@@ -1,0 +1,27 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Mathew ek",
+      "title": "Manager",
+      "Mobil": "2984572564",
+      "epost": "mathew@yahoo.se"
+    },
+
+    {
+      "id": 2,
+      "name": "jacob k",
+      "title": "Manager",
+      "Mobil": "2984572564",
+      "epost": "mathew@yahoo.se"
+    },
+
+    {
+      "id": 3,
+      "name": "Philip S",
+      "title": "secreteray",
+      "Mobil": "2984572564",
+      "epost": "mathew@yahoo.se"
+    }
+  ]
+}
